@@ -1,0 +1,11 @@
+test,mean,median,std,count
+ArrayUtilsTest,2.33,2.0,1.06,21
+RandomStringUtilsTest,2.50,2.5,1.10,22
+RandomUtilsTest,3.74,4.0,0.86,27
+StringUtilsTest,2.41,2.0,1.17,17
+CompareToBuilderTest,3.27,3.0,1.03,15
+MemoizerTest,2.65,3.0,0.93,23
+FractionTest,2.94,3.0,1.30,18
+TypeLiteralTest,2.44,3.0,1.03,16
+NumericEntityUnescaperTest,3.47,3.0,1.19,15
+FastDateParserTest,2.80,3.0,1.15,25
