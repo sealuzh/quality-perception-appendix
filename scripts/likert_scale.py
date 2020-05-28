@@ -1,7 +1,7 @@
 import pandas as pd
 
 
-def main(frame_file: str = 'data/results-survey.csv'):
+def main(frame_file: str = '..data/results-survey.csv'):
     frame = pd.read_csv(frame_file)
     cols = frame.columns.tolist()[121:132]
     frame = frame[cols]
@@ -22,7 +22,7 @@ def main(frame_file: str = 'data/results-survey.csv'):
     reorder = ['I do not know', 'not at all important', 'slightly', 'moderately', 'very', 'extremely important']
     frame = frame[reorder]
     frame = frame.reset_index()
-    frame.to_csv('data/likert.csv', index=False)
+    frame.to_csv('..data/likert.csv', index=False)
 
 
 
