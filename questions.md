@@ -68,13 +68,13 @@ the most?
 
 10. What is your current employment status? 
 
-9.1 - Student
+10.1 - Student
 
-9.2 - Researcher
+10.2 - Researcher
 
-9.3 - Professional Developer (paid)
+10.3 - Professional Developer (paid)
 
-9.4 - Professional Developer (voluntary) 9.5 - Other
+10.4 - Professional Developer (voluntary) 9.5 - Other
 > Multiple Choice (with option to specify Other)
 
 11. Your experience as a professional developer:
