@@ -1,0 +1,12 @@
+index,I do not know,not at all important,slightly,moderately,very,extremely important
+The test code is readable,0.0,0.0,0.0,3.0,30.0,37.0
+The test code is maintainable,0.0,0.0,0.0,8.0,29.0,33.0
+The test has correct input-output pairs,4.0,0.0,1.0,11.0,14.0,40.0
+The test is able to find faults,3.0,2.0,4.0,6.0,28.0,27.0
+The test is not flaky,2.0,0.0,1.0,5.0,14.0,48.0
+The test has good code design,1.0,3.0,8.0,22.0,23.0,13.0
+The test withstands in the long run,7.0,3.0,6.0,15.0,20.0,19.0
+Parts of the unit test are reusable,0.0,18.0,17.0,21.0,9.0,5.0
+The test code has low complexity,0.0,1.0,5.0,15.0,23.0,24.0
+The test code has good mutation coverage,11.0,4.0,11.0,19.0,16.0,9.0
+The test code has short execution time,0.0,4.0,16.0,14.0,18.0,18.0
