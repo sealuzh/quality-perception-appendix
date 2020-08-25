@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/267598029.svg)](https://zenodo.org/badge/latestdoi/267598029)
+
 # Appendix of _Pizza versus Pinsa: On the Perception and Measurability of Unit Test Code Quality_
 
 We share in this online appendix:
